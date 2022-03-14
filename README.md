@@ -1,1 +1,1 @@
-# Launch School Lesson 2
+# Launch School Lessons
